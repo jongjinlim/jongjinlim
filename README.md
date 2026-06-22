@@ -7,30 +7,16 @@ Backend Developer | Java & Spring
 ## 🛠 Tech Stack
 
 ### Backend
-
-* Java
-* Spring Framework
-* Spring Boot
-* MyBatis
-* JPA
-* ![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
-![Oracle](https://img.shields.io/badge/Oracle-11g-red)
-![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Java]
+![Spring Boot]
+![JPA]
 
 ### Database
-
-* Oracle
-* MySQL
-* MariaDB
+![Oracle]
+![MySQL]
 
 ### DevOps & Tools
-
-* Git
-* GitLab
-* Docker
-* Linux
-* Nginx
+![Docker]
 
 ---
 
